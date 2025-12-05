@@ -58,8 +58,4 @@
       port: 3000,
       open: true,
     },
-    export default defineConfig({
-  build: {
-    outDir: "build"
-  }
   });
